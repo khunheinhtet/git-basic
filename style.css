@@ -1,0 +1,22 @@
+
+section {
+  color: black;
+}
+#last p {
+  text-align: center;
+  color: white;
+}
+.backGround {
+  text-align: center;
+  color: yellow;
+  background-image: url(images/nature.jpg);
+  background-position: center;
+  background-size: 100%;
+  height: 200px;
+  border: 2px solid blue;
+}
+.pra {
+  border: 2px solid green;
+  height: 100px;
+  margin: 30px;
+}
